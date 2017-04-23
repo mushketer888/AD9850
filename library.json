@@ -1,0 +1,12 @@
+{
+  "name": "AD9850",
+  "keywords": "ad9850, dds",
+  "description": "Arduino serial library for AD9850",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/F4GOJ/AD9850"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
